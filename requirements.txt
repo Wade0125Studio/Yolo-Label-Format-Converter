@@ -1,0 +1,3 @@
+declxml==1.1.3
+piexif==1.1.3
+opencv-python==4.7.0.68
